@@ -1,5 +1,5 @@
 # react-mnist
-코로나 바이러스 실시간 데이터 시각화 입니다.
+Drawing MNIST developed by Tensorflow.js and React
 # Usage
 ~~~
 yarn install
