@@ -1,5 +1,5 @@
 # react-mnist
-Drawing MNIST developed by Tensorflow.js and React
+Implementation of Draw MNIST with Tensorflow.js and React
 # Usage
 ~~~
 yarn install
