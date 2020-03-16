@@ -1,5 +1,5 @@
 # react-mnist
-Implementation of Draw MNIST with Tensorflow.js and React
+Implementation of Drawing MNIST with Tensorflow.js and React
 # Usage
 ~~~
 yarn install
